@@ -5,6 +5,7 @@
 
 #include <vector>
 #include <string>
+#include <string.h>
 #include <map>
 #include <ctype.h>
 using namespace std;
